@@ -4,11 +4,15 @@ using System.Collections.Generic;
 
 public class BloggingContext : DbContext
 {
+    // Blog Table
     public DbSet<Blog> Blogs { get; set; }
+
+    // Post Table
     public DbSet<Post> Posts { get; set; }
 
     public string DbPath { get; }
     
+    // Creates the db
     public BloggingContext()
     {
         var folder = Environment.SpecialFolder.LocalApplicationData;
@@ -20,6 +24,7 @@ public class BloggingContext : DbContext
         => options.UseSqlite($"Data Source={DbPath}");
 }
 
+// Blog Model
 public class Blog
 {
     public int BlogId { get; set; }
@@ -28,6 +33,7 @@ public class Blog
     public List<Post> Posts { get; } = new();
 }
 
+// Post Model
 public class Post
 {
     public int PostId { get; set; }
