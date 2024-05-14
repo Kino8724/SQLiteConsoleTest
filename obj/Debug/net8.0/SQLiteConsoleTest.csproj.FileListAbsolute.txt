@@ -1,0 +1,6 @@
+C:\Users\it\Documents\Coding\UWP\SQLiteConsoleTest\obj\Debug\net8.0\SQLiteConsoleTest.csproj.AssemblyReference.cache
+C:\Users\it\Documents\Coding\UWP\SQLiteConsoleTest\obj\Debug\net8.0\SQLiteConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it\Documents\Coding\UWP\SQLiteConsoleTest\obj\Debug\net8.0\SQLiteConsoleTest.AssemblyInfoInputs.cache
+C:\Users\it\Documents\Coding\UWP\SQLiteConsoleTest\obj\Debug\net8.0\SQLiteConsoleTest.AssemblyInfo.cs
+C:\Users\it\Documents\Coding\UWP\SQLiteConsoleTest\obj\Debug\net8.0\SQLiteConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\it\Documents\Coding\UWP\SQLiteConsoleTest\obj\Debug\net8.0\SQLiteConsoleTest.sourcelink.json
